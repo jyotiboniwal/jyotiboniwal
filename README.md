@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Jyoti 👋
 
-<!--
-**jyotiboniwal/jyotiboniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering Student
+💻 Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I am currently learning and building my skills in frontend development.
+I have a good understanding of HTML, CSS, and JavaScript, and I am now focusing on improving my problem-solving skills and learning React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* HTML
+* CSS
+* JavaScript (Learning & Practicing)
+* React (Beginner)
+
+---
+
+## 💼 What I'm Working On
+
+* Practicing frontend concepts through small projects
+* Improving UI design and responsiveness
+* Learning how to build real-world web applications
+
+---
+
+## 🎯 Goals
+
+* Build strong frontend projects
+* Become confident in JavaScript
+* Get internship/job as a Frontend Developer
+
+---
+
+## 📫 Contact
+
+* Email: jyotiboniwal@gmail.com
+
+---
+
+⭐ *Currently focused on learning, practicing, and improving every day.*
