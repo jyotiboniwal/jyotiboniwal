@@ -29,7 +29,7 @@ I have a good understanding of HTML, CSS, and JavaScript, and I am now focusing 
 
 * Build strong frontend projects
 * Become confident in JavaScript
-* Get internship/job as a Frontend Developer
+* Build Real World Projects
 
 ---
 
